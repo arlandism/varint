@@ -10,8 +10,4 @@
 
 # Running tests
 
-To run just the fast tests:
 `bundle exec rspec`
-
-To run the full suite:
-`bundle exec rspec --tag full`
